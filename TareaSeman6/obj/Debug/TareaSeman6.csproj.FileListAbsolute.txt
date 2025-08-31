@@ -1,0 +1,11 @@
+C:\Users\hpatr\source\repos\TareaSeman6\TareaSeman6\bin\Debug\TareaSeman6.exe.config
+C:\Users\hpatr\source\repos\TareaSeman6\TareaSeman6\bin\Debug\TareaSeman6.exe
+C:\Users\hpatr\source\repos\TareaSeman6\TareaSeman6\bin\Debug\TareaSeman6.pdb
+C:\Users\hpatr\source\repos\TareaSeman6\TareaSeman6\obj\Debug\TareaSeman6.csproj.AssemblyReference.cache
+C:\Users\hpatr\source\repos\TareaSeman6\TareaSeman6\obj\Debug\TareaSeman6.Properties.Resources.resources
+C:\Users\hpatr\source\repos\TareaSeman6\TareaSeman6\obj\Debug\TareaSeman6.csproj.GenerateResource.cache
+C:\Users\hpatr\source\repos\TareaSeman6\TareaSeman6\obj\Debug\TareaSeman6.csproj.CoreCompileInputs.cache
+C:\Users\hpatr\source\repos\TareaSeman6\TareaSeman6\obj\Debug\TareaSeman6.exe
+C:\Users\hpatr\source\repos\TareaSeman6\TareaSeman6\obj\Debug\TareaSeman6.pdb
+C:\Users\hpatr\source\repos\TareaSeman6\TareaSeman6\obj\Debug\TareaSeman6.exe.config
+C:\Users\hpatr\source\repos\TareaSeman6\TareaSeman6\obj\Debug\TareaSeman6.Registro.resources
